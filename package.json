@@ -1,0 +1,14 @@
+{
+  "name": "outlookintegration",
+  "version": "1.0.0",
+  "description": "Outlook integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vigneshwaran Ramanathan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.4.0"
+  }
+}
